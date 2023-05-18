@@ -2,6 +2,8 @@
 
 This will fix Element desktop's broken search function on Arch Linux by applying a workaround found in https://bugs.archlinux.org/task/72359.
 
+`Error opening the database: SqlCipherError("Sqlcipher support is missing")`
+
 ## Installation
 
 1. Run the `install.sh` script
